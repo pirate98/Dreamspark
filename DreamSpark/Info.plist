@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppLovinConsentFlowInfo</key>
+	<dict>
+		<key>AppLovinConsentFlowEnabled</key>
+		<string>1</string>
+		<key>AppLovinConsentFlowPrivacyPolicy</key>
+		<string>https://firebasestorage.googleapis.com/v0/b/dreamspark-6c27f.appspot.com/o/privacypolicy.docx?alt=media&amp;token=196c5c03-ca95-4445-a88d-e22b5593ee44</string>
+	</dict>
+	<key>AppLovinSdkKey</key>
+	<string>QATgwp_IJaeJKfZke8-mtU0lElR3HSO6eBPwRR4Tu2cIv1xdBRQZkrC_bZRCeSLzPnzhS3WrUumuuy8L0kUJUM</string>
+	<key>NSAdvertisingAttributionReportEndpoint</key>
+	<string>https://postbacks-app.com</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+</dict>
+</plist>

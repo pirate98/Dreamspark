@@ -1,0 +1,124 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AppLovinSDK (10.3.6)
+  - CountryPickerView (3.3.0)
+  - Firebase/Auth (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 8.7.0)
+  - Firebase/CoreOnly (8.7.0):
+    - FirebaseCore (= 8.7.0)
+  - Firebase/Database (8.7.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 8.7.0)
+  - FirebaseAuth (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GTMSessionFetcher/Core (~> 1.5)
+  - FirebaseCore (8.7.0):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+  - FirebaseCoreDiagnostics (8.7.0):
+    - GoogleDataTransport (~> 9.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+    - nanopb (~> 2.30908.0)
+  - FirebaseDatabase (8.7.0):
+    - FirebaseCore (~> 8.0)
+    - leveldb-library (~> 1.22)
+  - GoogleDataTransport (9.1.0):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/AppDelegateSwizzler (7.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.5.2):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Network (7.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.5.2)"
+  - GoogleUtilities/Reachability (7.5.2):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.7.0)
+  - HCSStarRatingView (1.5)
+  - leveldb-library (1.22.1)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - ObjectMapper (4.2.0)
+  - PromisesObjC (2.0.0)
+  - Toast-Swift (5.0.1)
+  - TPKeyboardAvoidingSwift (3.2)
+  - ZVActivityIndicatorView (0.2.3)
+  - ZVProgressHUD (2.6.1):
+    - ZVActivityIndicatorView
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - AppLovinSDK
+  - CountryPickerView
+  - Firebase/Auth
+  - Firebase/Database
+  - HCSStarRatingView (~> 1.5)
+  - ObjectMapper (~> 4.2)
+  - Toast-Swift (~> 5.0.0)
+  - TPKeyboardAvoidingSwift
+  - ZVProgressHUD (~> 2.6)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppLovinSDK
+    - CountryPickerView
+    - Firebase
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseDatabase
+    - GoogleDataTransport
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - HCSStarRatingView
+    - leveldb-library
+    - nanopb
+    - ObjectMapper
+    - PromisesObjC
+    - Toast-Swift
+    - TPKeyboardAvoidingSwift
+    - ZVActivityIndicatorView
+    - ZVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AppLovinSDK: 6c261fe2ba6ed53969fcfb40aabd41cd3e7d9373
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  Firebase: bc9325d5ee2041524bac78a5213d0e530c651309
+  FirebaseAuth: 2e7d029977648c67a5d51a263d4cbab76d34cf12
+  FirebaseCore: f4804c1d3f4bbbefc88904d15653038f2c99ddf7
+  FirebaseCoreDiagnostics: b63732f581a1c6a453ec7241f9ab60b3a5bd3450
+  FirebaseDatabase: afc82291f9ed94ff949cec1b9505e8c3b944bc0f
+  GoogleDataTransport: 85fd18ff3019bb85d3f2c551d04c481dedf71fc9
+  GoogleUtilities: 8de2a97a17e15b6b98e38e8770e2d129a57c0040
+  GTMSessionFetcher: 43748f93435c2aa068b1cbe39655aaf600652e91
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  leveldb-library: 50c7b45cbd7bf543c81a468fe557a16ae3db8729
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TPKeyboardAvoidingSwift: ce1a75e0bc3af6b485f8bfa1d0a8320cfc565851
+  ZVActivityIndicatorView: 7e79667deaaeeb8f92bb8b4f6ac746e3d9c95058
+  ZVProgressHUD: 7f6340cf835deaf0f1ef1f95ef889aa4f3d165d0
+
+PODFILE CHECKSUM: c9291d8dcb65dbedf4c8e4b4902924fa760130f2
+
+COCOAPODS: 1.11.2
